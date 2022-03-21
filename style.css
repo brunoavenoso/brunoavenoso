@@ -1,0 +1,24 @@
+
+h1{
+	font-size: 30px;
+	color: blue; 
+}
+
+
+
+.p1 {
+	color: blue;
+	font-size: 50px;
+}
+
+.section1 p {
+	color 
+}
+a{
+	color: red;
+	background: blue;
+}
+a:hover {
+	color: blue;
+	background: red ;
+}
